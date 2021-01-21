@@ -1,0 +1,19 @@
+body{
+    background-color:url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.freepik.com%2Ffree-photo%2Fbeautiful-white-sand-tropical-beack-with-blue-sea-sky_113629-204.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbeack&tbnid=-_yUYwgv3TG7gM&vet=12ahUKEwiP486T763uAhX5NbcAHfzRCPoQMygAegUIARCvAQ..i&docid=7bZrtUnKA6vNYM&w=626&h=352&q=beack&ved=2ahUKEwiP486T763uAhX5NbcAHfzRCPoQMygAegUIARCvAQ);
+}
+
+div{
+    background-color: pink;
+    border-color:blue;
+    border-width: 4px;
+    border-style: dotted;
+    
+}
+p{
+color:red;
+
+}
+span{
+    background: red;
+    color: black;
+}
