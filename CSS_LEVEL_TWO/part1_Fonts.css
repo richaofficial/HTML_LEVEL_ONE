@@ -1,0 +1,25 @@
+h1{
+    font-family:"Arial";
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+    font-size: 20px;
+}
+
+#two{
+    font-size: 1.0em;
+}
+
+p{
+   
+        font-family: '18thCenturyKurrentStartRegular';
+        font-weight: normal;
+        font-style: normal;
+     }
+h1{
+    text-align: center;
+}

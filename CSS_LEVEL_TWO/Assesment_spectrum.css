@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-family: 'Potta One', cursive;
+}
+
+.art{
+    margin:auto
+}
+td{
+    background-color: rosybrown;
+    height: 300px;
+    width: 100px;
+    border:6px solid white
+}
+
+
+#one{
+    background-color: #606C38 ;
+}
+
+#two{
+    background-color:#283618 ;
+}
+
+#three{
+    background-color:#FEFAE0 ;
+}
+#four{
+    background-color:#DDA15E ;
+}
+#five
+{
+    background-color:#BC6C25 ;
+}
+
+
+
+

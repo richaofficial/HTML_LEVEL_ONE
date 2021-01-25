@@ -1,0 +1,18 @@
+body{
+    background-color:rgba(28, 28, 167, 0.164);
+}
+
+h1{
+    border: 1px solid black;
+}
+
+h2{
+    color: purple;
+}
+input{
+    border: 2px solid rdb(144,0,0)
+}
+
+div p{
+    background: #fffca5;
+}
